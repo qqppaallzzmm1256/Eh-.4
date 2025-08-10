@@ -1,0 +1,39 @@
+local msg = Instance.new("Message",workspace)
+msg.Text = "欢迎使用全网通用脚本"
+wait(1.8)
+msg:Destroy()
+
+local msg = Instance.new("Message",workspace)
+msg.Text = "快手：Eh3662"
+wait(1.8)
+msg:Destroy()
+
+local msg = Instance.new("Message",workspace)
+msg.Text = "roblox名：Eh3662"
+wait(1.8)
+msg:Destroy()
+
+local msg = Instance.new("Message",workspace)
+msg.Text = "脚本群：3875917846，你不加群就用，鸡巴是不是超级大？"
+wait(1.8)
+msg:Destroy()
+
+local msg = Instance.new("Message",workspace)
+msg.Text = "嗯，对，实则是假的"
+wait(1.8)
+msg:Destroy()
+
+local msg = Instance.new("Message",workspace)
+msg.Text = "这是我弄的假脚本，好玩不？"
+wait(1.8)
+msg:Destroy()
+
+local msg = Instance.new("Message",workspace)
+msg.Text = "roblox名字也是假的"
+wait(1.8)
+msg:Destroy()
+
+local msg = Instance.new("Message",workspace)
+msg.Text = "恭喜你，被我骗了"
+wait(9999999999999999999999999)
+msg:Destroy()
